@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# The execute file build by IDE
+*.exe
+
 # User-specific files
 *.rsuser
 *.suo
